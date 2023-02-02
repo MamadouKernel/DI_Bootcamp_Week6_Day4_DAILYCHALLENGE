@@ -7,7 +7,7 @@ import di.atos.dailychallengeweek6day4.challenge.Calculator;
 
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
  */
 public class DailyChallengeWeek6Day4 {
 
