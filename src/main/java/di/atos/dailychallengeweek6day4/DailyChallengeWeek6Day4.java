@@ -8,11 +8,14 @@ import di.atos.dailychallengeweek6day4.challenge.Calculator;
 /**
  *
  * @author KONATE-MK
+ *@date 29/01/2023
  */
 public class DailyChallengeWeek6Day4 {
 
     public static void main(String[] args) {
         Calculator obj = new Calculator(10, 94);
+        
+        
 
         System.out.println(obj.add());
         System.out.println(obj.subtract());
@@ -20,3 +23,9 @@ public class DailyChallengeWeek6Day4 {
         System.out.println(obj.divide());
     }
 }
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */
