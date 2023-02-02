@@ -4,9 +4,11 @@
  */
 package di.atos.dailychallengeweek6day4.challenge;
 
+
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
 public class Calculator {
     // write class fields here
@@ -40,3 +42,11 @@ public class Calculator {
     }
 
 }
+
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */
